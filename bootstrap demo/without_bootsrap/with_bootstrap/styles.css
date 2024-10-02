@@ -1,0 +1,19 @@
+/* Optional additional styling */
+body {
+  background-color: #f4f4f4;
+}
+
+.jumbotron {
+  background-image: url("https://via.placeholder.com/1200x400");
+  background-size: cover;
+  background-position: center;
+}
+
+.card-img-top {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  background-color: #333;
+}
